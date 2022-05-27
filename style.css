@@ -1,0 +1,50 @@
+#carouselExampleIndicators{
+    margin-bottom: 100px;
+    
+}
+.dragon{
+    margin-bottom:100px;
+}
+.buy{
+    background-color: black;
+    color:#fff;
+    border: none;
+    border-radius: 8px;
+    padding:9px 25px;
+}
+.stack p{
+    margin-bottom: 2rem;
+}
+.card-body{
+    text-align: center;
+}
+.image-map{
+
+    height:316px;
+    width:296px;
+    border:none;
+    box-shadow: 20px 20px 50px rgb(226, 225, 225);
+    margin-top:60px;
+    border-radius: 20px 0px 20px 0px;
+
+}
+.image-map img{
+    height: 200px;
+    width: 200px;
+    margin:35px;
+}
+.image-map2{
+    height:316px;
+    width:296px;
+    border:none;
+    box-shadow: 5px 5px 20px gray;
+}
+.vlog{
+    height: 8px;
+    width: 140px;
+    background-color:#ff9C35;
+    margin-top: -110px;
+    border: none;
+    border-radius: 100px;
+}
+
